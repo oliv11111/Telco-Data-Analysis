@@ -1,5 +1,8 @@
 # Telco-Data-Analysis
 Telco Customer Service Data Analysis
+### Dataset Description
+
+The Telco Customer Churn dataset captures key attributes related to customers of a telecommunications company. It provides insights into customer demographics, service usage, and billing information. This dataset can be used to analyze customer behavior, predict churn rates, and develop targeted marketing strategies aimed at improving customer retention.
 
 ### Dataset Features
 
@@ -99,5 +102,5 @@ Telco Customer Service Data Analysis
 
 - **Churn**:
   - A binary indicator that shows whether the customer has churned (i.e., discontinued service).
-    - **Yes**: Customer has churned.
-    - **No**: Customer is still active.
+    - **Yes**: Customer has churned. (1)
+    - **No**: Customer is still active. (0)
