@@ -6,8 +6,11 @@ The Telco Customer Churn dataset captures key attributes related to customers of
 
 ### Dataset Features
 
-- **CustomerID**:
-  - A unique identifier for each customer in the dataset. This helps in tracking individual customer data.
+<details>
+  <summary>See Features</summary>
+  
+  - **CustomerID**:
+    - A unique identifier for each customer in the dataset. This helps in tracking individual customer data.
 
 - **Gender**:
   - The gender of the customer. Typically represented as categories (e.g., "Male", "Female"). This information can be used to analyze trends and behaviors based on gender.
@@ -104,3 +107,27 @@ The Telco Customer Churn dataset captures key attributes related to customers of
   - A binary indicator that shows whether the customer has churned (i.e., discontinued service).
     - **Yes**: Customer has churned. (1)
     - **No**: Customer is still active. (0)
+
+</details>
+
+
+### EDA
+
+
+***Descriptive Statistics***
+- Dataset:
+  - 7043 Entries
+
+- Gender Split:
+  - Male: 50.47% (3555)
+  - Female: 49.53% (3488)
+
+- Senior Citizen Split:
+  - Senior Citizen: 16.21% (1142)
+  - Non-Senior Citizen: 83.78% (5901)
+
+- Monthly Cost
+  - Average monthly cost: $64.76
+  - Standard deviation from mean: $30.09
+  - Maximum monthly cost: $118.75
+  - Minimum monthly cost: $18.25
