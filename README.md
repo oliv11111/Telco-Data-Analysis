@@ -126,6 +126,10 @@ The Telco Customer Churn dataset captures key attributes related to customers of
   - Senior Citizen: 16.21% (1142)
   - Non-Senior Citizen: 83.78% (5901)
 
+- Partner Split:
+  - Yes (they have a partner): 48.30% (3402)
+  - No (they do not have a partner): 51.69% (3641)
+
 - Monthly Cost
   - Average monthly cost: $64.76
   - Standard deviation from mean: $30.09
